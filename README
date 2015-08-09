@@ -1,4 +1,4 @@
-Catch-Indicator
+WebpThumbnailer
 ===============
 
 WebpThumbnailer is a thumbnailer for webp images
@@ -9,7 +9,7 @@ Download
 
 Download the [package][dlp] *or* checkout the source:
 
-    $ hg clone http://bitbucket.org/obensonne/gnome-encfs
+    $ git clone https://github.com/atareao/webpthumbnailer.git
 
 Installation
 ------------
