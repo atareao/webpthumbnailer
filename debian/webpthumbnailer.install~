@@ -1,0 +1,5 @@
+src/* /usr/share/catch-indicator
+data/catch-indicator-autostart.desktop /usr/share/catch-indicator
+data/Catch-Indicator.desktop /usr/share/applications
+data/icons/*.svg /usr/share/catch-indicator/icons
+data/icons/catch-indicator.svg /usr/share/pixmaps

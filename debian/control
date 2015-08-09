@@ -1,0 +1,15 @@
+Source: webpthumbnailer
+Section: utils
+Priority: extra
+Maintainer: Lorenzo Carbonell Cerezo <lorenzo.carbonell.cerezo@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.4
+Homepage: http://www.atareao.es
+
+Package: webpthumbnailer
+Architecture: all
+Depends: ${misc:Depends}, 
+	imagemagick	
+Description: A thumbnailer for webp images
+ WebpThumbnailer is a thumnailer for nautilus which can
+ create thumnails for webpimages

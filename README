@@ -1,0 +1,19 @@
+Catch-Indicator
+===============
+
+WebpThumbnailer is a thumbnailer for webp images
+
+
+Download
+--------
+
+Download the [package][dlp] *or* checkout the source:
+
+    $ hg clone http://bitbucket.org/obensonne/gnome-encfs
+
+Installation
+------------
+
+    $ sudo add-apt-repositoy ppa:atareao/thumbnailers
+    $ sudo apt-get update
+    $ sudo apt-get install webpthumbnailer

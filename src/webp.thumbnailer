@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=/usr/bin/webpthumbnailer.sh
+Exec=/usr/bin/webpthumbnailer.sh %i %o %s
+MimeType=image/webp;

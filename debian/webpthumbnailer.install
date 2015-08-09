@@ -1,0 +1,2 @@
+src/webp.thumbnailer /usr/share/thumbnailers
+src/webpthumbnailer.sh /usr/bin
