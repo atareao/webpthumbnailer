@@ -1,4 +1,10 @@
-webpthumbnailer (0.0.1-0extras15.04.0) vivid; urgency=medium
+webp-thumbnailer (0.0.2-0extras15.04.0) vivid; urgency=medium
+
+  * Renamed 
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 23 Aug 2015 13:08:44 +0200
+
+webp-thumbnailer (0.0.1-0extras15.04.0) vivid; urgency=medium
 
   * Initial release.
 
